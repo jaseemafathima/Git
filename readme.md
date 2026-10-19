@@ -1,4 +1,3 @@
 # Git Course
 this is complete  git course
-
-# this is the from bug branch
+# this is the from main branch
