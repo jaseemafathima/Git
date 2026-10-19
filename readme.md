@@ -1,4 +1,2 @@
-# Git Course
-this is complete  git course
-# this is the from main branch
-Good night
+# This is Git course
+This is complete Git course
